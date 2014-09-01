@@ -1,0 +1,47 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+main {
+	width: 100%;
+	height: 1200px;
+}
+
+header {
+	background-color: grey;
+	height: 50px;
+	text-align: center;
+	padding: 20px 10px 0px;
+}
+
+.t-green,
+.t-red,
+.t-yellow,
+.t-blue,
+.t-orange,
+.t-lightblue {
+	text-transform: uppercase;
+	font-size: 2em;
+}
+
+
+.t-green {
+	color: green;
+}
+.t-red {
+	color: red;
+}
+.t-yellow {
+	color: yellow;
+}
+.t-blue {
+	color: blue;
+}
+.t-orange {
+	color: orange;
+}
+.t-lightblue {
+	color: lightblue;
+}
